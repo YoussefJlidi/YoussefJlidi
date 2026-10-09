@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Youssef Jlidi — SEO, GEO and training. 12 years in SEO, 500K+ learners on LinkedIn Learning, 25 video courses, 7 schools and universities, 2 books" src="assets/banner.jpg" width="100%">
+  <img alt="SEO · GEO · Artificial intelligence. 12 years of SEO experience, 25 LinkedIn Learning courses, 530,000+ LinkedIn Learning learners. Selected references: leboncoin, La Poste, Brico Dépôt, Club Med" src="assets/cover.jpg" width="100%">
 </p>
 
 <h1 align="center">Youssef Jlidi</h1>
@@ -12,10 +12,6 @@
   <a href="https://youssef-jlidi.com"><img alt="Website" src="https://img.shields.io/badge/youssef--jlidi.com-0E182E?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/youssefjlidi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-youssefjlidi-283E68?style=flat-square&labelColor=0E182E&logo=linkedin&logoColor=white"></a>
   <a href="https://www.linkedin.com/learning/instructors/youssef-jlidi"><img alt="LinkedIn Learning instructor" src="https://img.shields.io/badge/LinkedIn_Learning-instructor-283E68?style=flat-square&labelColor=0E182E&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img alt="Selected references: Club Med, leboncoin, La Poste, Le Figaro, Brico Dépôt, LinkedIn, Draft &amp; Goal" src="assets/references.jpg" width="100%">
 </p>
 
 <br>
@@ -47,7 +43,7 @@ The other half of my work is teaching. I have recorded 25 video courses for Link
   <tr>
     <td width="33%" valign="top">
       <h3>🎬 LinkedIn Learning</h3>
-      <b>25 courses</b> · <b>500,000+ learners</b><br>
+      <b>25 courses</b> · <b>530,000+ learners</b><br>
       Video courses on SEO, data and AI, in French, since 2017.
     </td>
     <td width="33%" valign="top">
