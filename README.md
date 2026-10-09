@@ -25,7 +25,7 @@
 
 I have spent 12 years in SEO, in-house and as a consultant, and today I work on two fronts: getting brands found on Google and getting them cited in AI-generated answers. I currently work with Club Med on SEO strategy for France and coordination across EMEA markets.
 
-The other half of my work is teaching. I have recorded 25 video courses for LinkedIn Learning, written two books, and I teach at Paris School of Business. I use AI the way I want my learners to use it: as a working tool, with a human checking every output.
+The other half of my work is teaching. I have recorded 25 video courses for LinkedIn Learning, written two books, and I have taught in seven business schools and universities since 2017. I use AI the way I want my learners to use it: as a working tool, with a human checking every output.
 
 <br>
 
@@ -56,11 +56,25 @@ The other half of my work is teaching. I have recorded 25 video courses for Link
       <b>2 books</b> in the <i>Objectif Web</i> collection: Google Analytics (2020) and Google Data Studio (2022).
     </td>
     <td width="33%" valign="top">
-      <h3>🏛️ Paris School of Business</h3>
-      M2 Digital Business: <i>SEO Search Engine</i> and <i>Discoverability &amp; Organic Growth</i>.
+      <h3>🏛️ Schools &amp; universities</h3>
+      <b>7 institutions</b> since 2017: Paris School of Business, SKEMA, Paris Digital School, SUP de Web, Université Paris 12, Université d'Évry, IUT de Sceaux.
     </td>
   </tr>
 </table>
+
+<details open>
+<summary><b>Where I teach</b></summary>
+
+| School | What I teach |
+|:--|:--|
+| Paris School of Business | M2 Digital Business: *SEO Search Engine* and *Discoverability & Organic Growth* |
+| SKEMA Business School | Advanced SEO, SERP analysis, coaching on organic acquisition projects; thesis supervisor on AI topics |
+| Paris Digital School | Digital marketing productivity, content optimisation, performance dashboards |
+| SUP de Web | Semantic clustering, topic clusters, internal linking for e-commerce |
+| Université Paris 12 | Digital marketing, web analytics, Google Analytics, SEO fundamentals |
+| Université d'Évry · IUT de Sceaux | Guest lecturer |
+
+</details>
 
 <details open>
 <summary><b>Selected LinkedIn Learning courses</b> (in French)</summary>
