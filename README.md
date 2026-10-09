@@ -1,22 +1,21 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img alt="Abstract network of search signals travelling between three hubs" src="assets/banner-light.png" width="100%">
-  </picture>
+  <img alt="Youssef Jlidi — SEO, GEO and training. 12 years in SEO, 500K+ learners on LinkedIn Learning, 25 video courses, 7 schools and universities, 2 books" src="assets/banner.jpg" width="100%">
 </p>
 
 <h1 align="center">Youssef Jlidi</h1>
 
 <p align="center">
-  <b>SEO &amp; GEO consultant · Trainer · Author</b><br>
-  Be where your customers are looking. On Google. In AI answers. Across your next markets.
+  <b>SEO &amp; GEO consultant · Trainer · Author</b>
 </p>
 
 <p align="center">
   <a href="https://youssef-jlidi.com"><img alt="Website" src="https://img.shields.io/badge/youssef--jlidi.com-0E182E?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/youssefjlidi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-youssefjlidi-283E68?style=flat-square&labelColor=0E182E&logo=linkedin&logoColor=white"></a>
   <a href="https://www.linkedin.com/learning/instructors/youssef-jlidi"><img alt="LinkedIn Learning instructor" src="https://img.shields.io/badge/LinkedIn_Learning-instructor-283E68?style=flat-square&labelColor=0E182E&logo=linkedin&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img alt="Selected references: Club Med, leboncoin, La Poste, Le Figaro, Brico Dépôt, LinkedIn, Draft &amp; Goal" src="assets/references.jpg" width="100%">
 </p>
 
 <br>
@@ -53,6 +52,7 @@ The other half of my work is teaching. I have recorded 25 video courses for Link
     </td>
     <td width="33%" valign="top">
       <h3>📚 Éditions ENI</h3>
+      <p><img src="assets/book-analytics.jpg" alt="Google Analytics book cover" height="120"> <img src="assets/book-data-studio.jpg" alt="Google Data Studio book cover" height="120"></p>
       <b>2 books</b> in the <i>Objectif Web</i> collection: Google Analytics (2020) and Google Data Studio (2022).
     </td>
     <td width="33%" valign="top">
